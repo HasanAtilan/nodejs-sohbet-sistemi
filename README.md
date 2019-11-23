@@ -3,6 +3,7 @@
 <p> rahatlikla kullanabilirsiniz
 <p> Genellikle Full-Stack Developerim Her Türlü Yazılımı Kodlarım
 
+<p> sistemi çalıştırmak için: NODEJS Sunucu ve MongoDB Kurmanız Gerekidir.
 <p> youtube sistemi eklendi
 <p> teamspeak soket kontrolü eklendi
 <p> twitter bildirim sistemi eklendi
